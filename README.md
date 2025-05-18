@@ -37,7 +37,7 @@ A simple web application for managing books in a small library. Users can add bo
 
 ## 🛠️ Technologies Used
 
-- **Backend:** Java (Spring Boot or Servlet API), Gson (for JSON handling)
-- **Frontend:** HTML, CSS (Flexbox/Grid), JavaScript (validation, DOM manipulation, API calls)
+- **Backend:** Java + Spring Boot
+- **Frontend:** HTML, CSS, JavaScript 
 
 ---
